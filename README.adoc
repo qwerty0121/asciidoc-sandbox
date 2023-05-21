@@ -1,0 +1,7 @@
+= asciidoc-sandbox
+
+== 概要
+
+このプロジェクトはAsciiDocの動作を試すためのプロジェクトです。
+
+このREADMEもAsciiDocで記述されています。
